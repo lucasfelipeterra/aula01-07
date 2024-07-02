@@ -1,11 +1,3 @@
-// function soma(n1, n2) {
-//     let res = n1 + n2;
-//     console.log("a soma é igual a " + res);
-// }
-
-// soma(10, 20);
-// soma(2, 7);
-
 const prompt = require("prompt-sync")({ sigint: true });
 
 function maiorNumeroPossivel(num) {
